@@ -1,6 +1,6 @@
 # California Wine Project 
 
- Project : <A href='http://nbviewer.jupyter.org/github/sametmarasli/california_winedb/blob/master/california_wine.ipynb'>California_winedb</A><BR>
+ Project : <A href='http://nbviewer.jupyter.org/github/sametmarasli/california_winedb/blob/master/california_winedb.ipynb'>California_winedb</A><BR>
 
 
 ## Summary
