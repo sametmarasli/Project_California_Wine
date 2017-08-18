@@ -13,4 +13,4 @@ Dashboard : <A href='https://public.tableau.com/shared/TJ8G6NW24?:display_count=
 - Preaparing the Data for Predictive Analysis
 - Graphical Analysis
 - Classification
-- Regression
+- Regression..
